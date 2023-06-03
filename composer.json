@@ -1,21 +1,17 @@
 {
-    "name": "zhangtest/projectname",
-    "description": "这是一个测试composer init 项目",
-    "type": "library",
-    "require": {
-        "php": ">=5.6.0"
-    },
+    "name": "jokejiec/test",
+    "description": "这个是测试的",
     "autoload": {
         "psr-4": {
-            "Yourname\\Projectname\\": "src/"
+            "Jokejiec\\Test\\": "src/"
         }
     },
     "authors": [
         {
             "name": "jokejie",
-            "email": "1807908394@qq.com",
-            "homepage":"https://github.com/1807908394/projectname"
+            "email": "1807908394@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
