@@ -1,5 +1,5 @@
 {
-    "name": "yourname/projectname",
+    "name": "zhangtest/projectname",
     "description": "这是一个测试composer init 项目",
     "type": "library",
     "require": {
